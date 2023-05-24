@@ -1,4 +1,6 @@
 header{
-    background-color: #000000;
-    color: white;
+    background-color: #3A5628;
+    color: #010100;
+    display: flex;
+justify-content: space-around;
 }
